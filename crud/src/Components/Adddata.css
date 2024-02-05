@@ -1,0 +1,38 @@
+.maindiv {
+  box-shadow: 2px 2px 2px 2px black;
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: max-content;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.subdiv {
+  width: 600px;
+  padding: 20px 0;
+}
+input {
+  width: 90%;
+  padding: 10px;
+}
+button {
+  background-color: rgb(18, 18, 132);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+.btn {
+  text-align: right;
+  margin-right: 40px;
+}
+h3{
+  margin-left: 20px;
+  text-align: left;
+}
+.error{
+  color:red;
+  text-align: right;
+}

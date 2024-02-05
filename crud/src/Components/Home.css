@@ -1,0 +1,39 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(18, 18, 132);
+}
+.add{
+    background-color: rgb(188, 235, 117);
+    padding: 10px;
+}
+.tablehead > td{
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
+.del{
+    margin-right:30px;
+    background-color: rgb(218, 95, 95);
+    padding: 10px;
+}
+.right{
+    margin-right: 20px;
+    justify-content: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.left{
+    margin-left: 20px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    border: 1px solid black;
+    border-spacing: 20px;
+}
+td{
+    padding-right: 60px;
+    text-align: left;
+}
